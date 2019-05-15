@@ -1,5 +1,1 @@
-{
-	"version": 2,
-	"name": "api-test",
-	"builds": [{ "src": "*.js", "use": "@now/node-server" }]
-}
+{ "version": 1 }
